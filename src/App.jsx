@@ -82,8 +82,6 @@ const App = () => {
         }
       })
 
-      console.log(repeatedShow)
-
       let newFilter
       
       if (historySaved.length < 3) {      
